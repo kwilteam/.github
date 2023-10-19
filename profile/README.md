@@ -1,6 +1,6 @@
 # Welcome to Kwil!
 
-![Masthead](../images/welcome-kwil.gif)
+![Masthead](./images/welcome-kwil.gif)
 
 ----
 <p align="center">
