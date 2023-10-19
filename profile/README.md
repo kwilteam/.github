@@ -1,6 +1,6 @@
 # Welcome to Kwil!
 
-![Masthead](./images/welcome-kwil.gif)
+![Masthead](https://github.com/kwilteam/.github/blob/main/images/welcome-kwil.gif?raw=true)
 
 ----
 <p align="center">
