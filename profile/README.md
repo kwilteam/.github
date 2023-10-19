@@ -32,7 +32,7 @@ Open full time roles at Kwil are posted on our [careers page](https://www.kwil.c
 
 ## Resources
 
-- 💻 [Website](https://www.kwil.com)
-- 📜 [Documentation](https://docs.kwil.com)
-- 🎮 [Discord](https://discord.com/invite/HzRPZ59Kay)
-- 📲[Twitter](https://twitter.com/kwilteam)
+- [Website](https://www.kwil.com)
+- [Documentation](https://docs.kwil.com)
+- [Discord](https://discord.com/invite/HzRPZ59Kay)
+- [Twitter](https://twitter.com/kwilteam)
