@@ -19,7 +19,7 @@ Below are popular repositories for building with Kwil:
 | Name | Description | Link |
 |----------|----------|----------|
 | binary-releases | Release repository for latest Kwil Builds & CLIs | [Here](https://github.com/kwilteam/binary-releases) |
-| kwil-db | Golang implementation of Kwil Daemon | Open Source in Q4 2023 |
+| kwil-db | Golang implementation of Kwil Daemon | Open Source in Q1 2024 |
 | kwil-js | JavaScript/TypeScript SDK for Kwil Applications | [Here](https://github.com/kwilteam/kwil-js) |
 | kwil.py | Python SDK for Kwil Applications | [Here](https://github.com/kwilteam/kwil.py) |
 | kuneiform |  Language for defining databases on Kwil | [Here](https://github.com/kwilteam/kuneiform) |
